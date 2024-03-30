@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\muham\\SquidGame RLGL\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|c:\\users\\muham\\squidgame rlgl\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|C:\\Users\\muham\\SquidGame RLGL\\assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|C:\\Users\\muham\\SquidGame RLGL\\assets\\scripts\\dollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|C:\\Users\\muham\\SquidGame RLGL\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|C:\\Users\\muham\\SquidGame RLGL\\assets\\scripts\\bulletmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F2115BD-C66C-B2C6-BD8F-0A18C9A45BA6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinishLine.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishLine.cs",
+              "ToolTip": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\FinishLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:49:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DollController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\DollController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DollController.cs",
+              "ToolTip": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\DollController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DollController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:11:11.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletMovement.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\BulletMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletMovement.cs",
+              "ToolTip": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\BulletMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:01:03.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T13:22:04.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\muham\\SquidGame RLGL\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwFoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T12:13:03.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
